@@ -5,9 +5,9 @@ This repository contains the machine-learned interatomic potentials, the *ab ini
 ## Associated publication
 
 Zheng Yu, Jiayan Xu, Abhirup Patra, Sharan Shetty, Detlef Hohl, Roberto Car,
-*"From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential
-Molecular Dynamics,"* arXiv:2605.05361.
-https://arxiv.org/abs/2605.05361
+"From bulk to surface: Structure and dynamics of amorphous alumina from deep potential
+molecular dynamics," *Acta Materialia* **318**, 122611 (2026).
+DOI: [10.1016/j.actamat.2026.122611](https://doi.org/10.1016/j.actamat.2026.122611)
 
 If you use these models, data, or structures, please cite the paper above.
 
